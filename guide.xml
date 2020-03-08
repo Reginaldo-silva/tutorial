@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1579089547.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="es">Band</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate ">
+    <display-name lang="pt">Combate </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="es">Cartoon Network</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="es">Tooncast</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Cinemax ">
+    <display-name lang="pt">Cinemax </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="es">Telecine Cult</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="es">Telecine Premium</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
